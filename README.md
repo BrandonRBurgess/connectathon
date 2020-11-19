@@ -1,4 +1,4 @@
-Brandon's Read Me    dogs are super cool
+Brandon's Read Me    dogs are super cool ..
 # HL7 CMS/FHIR Connectathon
 
 Resources for use at HL7/CMS FHIR Connectathon, Clinical Reasoning Track.
